@@ -39,7 +39,7 @@ Solutions built for real-world hiring challenges.
 
 - **AI Energy Report Analyzer**  
   AI-assisted interface for analyzing energy reports and generating executive summaries.  
-  https://github.com/AdrianaAC/G2C_Challenge  
+  https://github.com/AdrianaAC/AI-Energy-Analyzer
 
 - **Nearshore Frontend Assessment**  
   https://github.com/AdrianaAC/nearshore-assesment  
@@ -149,7 +149,7 @@ Next.js • React • TypeScript • OpenAI API • Vercel
 https://g2-c-challenge.vercel.app/
 
 🔗 **Repository**  
-https://github.com/AdrianaAC/G2C_Challenge
+https://github.com/AdrianaAC/AI-Energy-Analyzer
 
 </td>
 
