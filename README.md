@@ -14,13 +14,13 @@ I enjoy creating modern user interfaces, improving frontend architecture, and ex
 
 ## 📊 GitHub Stats
 
-![Adriana's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianaAC&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdrianaAC&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianaAC&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianaAC&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🔥 Contribution Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdrianaAC&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=AdrianaAC&theme=tokyonight&hide_border=true)
 
 ## 🚀 Tech Stack
 
