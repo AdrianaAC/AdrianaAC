@@ -111,7 +111,7 @@ https://github.com/AdrianaAC/G2C_Challenge
 </td>
 
 <td width="50%">
-
+<b>Application Interface</b>
 <img src="./images/g2cAssessment.png" width="100%">
 
 </td>
