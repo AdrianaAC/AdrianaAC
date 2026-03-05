@@ -64,13 +64,28 @@ I enjoy creating modern user interfaces, improving frontend architecture, and ex
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-Projects will be added here as they are developed.
+Projects I built to explore frontend architecture, UI systems, and AI-powered interfaces.
 
-### 🔹 AI Energy Report Analyzer
+(Projects will be added here soon)
 
-AI-powered interface for analyzing energy consumption reports and generating executive insights.
+Upcoming projects include:
+
+### TV Show Tracker
+React + external APIs to manage watched shows, upcoming episodes, and recommendations.
+
+### Component Playground
+A sandbox for experimenting with UI architecture, reusable components, and design systems.
+
+
+---
+
+## 🧪 Technical Assessments
+
+### AI Energy Report Analyzer
+
+Technical challenge focused on building an AI-assisted interface to analyze energy consumption reports and generate executive insights.
 
 **Features**
 
@@ -83,16 +98,10 @@ AI-powered interface for analyzing energy consumption reports and generating exe
 
 Next.js • React • TypeScript • OpenAI API • Vercel
 
-🔗 **Live Demo**  
-https://g2-c-challenge.vercel.app/
+**Links**
 
-📦 **Repository**  
-https://github.com/AdrianaAC/G2C_Challenge
-
-
-Upcoming projects include:
-- **TV Show Tracker** — React + API integrations
-- **Component Playground** — UI architecture experiments
+Live: https://g2-c-challenge.vercel.app/  
+Repo: https://github.com/AdrianaAC/G2C_Challenge
 
 ---
 
