@@ -12,6 +12,15 @@ I enjoy creating modern user interfaces, improving frontend architecture, and ex
 
 ---
 
+## 📊 GitHub Stats
+
+![Adriana's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianaAC&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianaAC&layout=compact&theme=tokyonight)
+
+## 🔥 Contribution Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdrianaAC&theme=tokyonight)
+
 ## 🚀 Tech Stack
 
 ### Frontend
@@ -52,13 +61,46 @@ I enjoy creating modern user interfaces, improving frontend architecture, and ex
 - Agile / Scrum
 
 ### AI-Assisted Development
-- [OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
+- ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
 - ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-purple)
-- [GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?logo=githubcopilot)
+- ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?logo=githubcopilot)
 - ![Cursor](https://img.shields.io/badge/-Cursor%20IDE-333333)
 - Codex
 
 ---
+
+## 📌 Featured Projects
+
+Projects will be added here as they are developed.
+
+### 🔹 AI Energy Report Analyzer
+
+AI-powered interface for analyzing energy consumption reports and generating executive insights.
+
+**Features**
+
+- AI-generated executive summaries
+- Energy anomaly detection
+- Automated email draft generation
+- Interactive UI for energy report analysis
+
+**Tech Stack**
+
+Next.js • React • TypeScript • OpenAI API • Vercel
+
+🔗 **Live Demo**  
+https://g2-c-challenge.vercel.app/
+
+📦 **Repository**  
+https://github.com/AdrianaAC/G2C_Challenge
+
+
+Upcoming projects include:
+- **TV Show Tracker** — React + API integrations
+- **Component Playground** — UI architecture experiments
+
+---
+
 
 ## 💼 Professional Experience
 
@@ -83,18 +125,6 @@ My work includes:
 
 ---
 
-## 📌 Featured Projects
-
-Projects will be added here as they are developed.
-
-Upcoming projects include:
-
-- **AI Energy Report Analyzer** — Next.js + OpenAI
-- **TV Show Tracker** — React + API integrations
-- **Component Playground** — UI architecture experiments
-
----
-
 ## 🌍 Connect with Me
 
 LinkedIn  
@@ -105,4 +135,4 @@ https://github.com/AdrianaAC
 
 ---
 
-⭐ Always curious, always building.
+✨ Always curious, always building.
