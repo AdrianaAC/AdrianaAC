@@ -37,7 +37,7 @@ Projects built to explore frontend architecture, UI systems, and modern web deve
 ### 🧪 Technical Assessments
 Solutions built for real-world hiring challenges.
 
-- **AI Energy Report Analyzer**  
+- **AI Energy Report Analyzer - Tech2C**  
   AI-assisted interface for analyzing energy reports and generating executive summaries.  
   https://github.com/AdrianaAC/AI-Energy-Analyzer
 
