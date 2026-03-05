@@ -87,6 +87,8 @@ A sandbox for experimenting with UI architecture, reusable components, and desig
 
 Technical challenge focused on building an AI-assisted interface to analyze energy consumption reports and generate executive insights.
 
+![Energy Analyzer Screenshot](./images/g2cAssessment.png)
+
 **Features**
 
 - AI-generated executive summaries
