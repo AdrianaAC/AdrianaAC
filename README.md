@@ -16,6 +16,49 @@ I enjoy creating modern user interfaces, improving frontend architecture, and ex
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AdrianaAC&theme=tokyonight&hide_border=true)
 
+## 🗂 Repository Categories
+
+### 🚀 Featured Projects
+Projects built to explore frontend architecture, UI systems, and modern web development.
+
+- **Burger Builder (React)**  
+  https://github.com/AdrianaAC/burgerBuilder_React  
+
+- **SpellsList**  
+  React interface with API integration for listing and exploring spells.  
+  https://github.com/AdrianaAC/SpellsList  
+
+- **ShareMyPlaceApp**  
+  JavaScript application integrating Google Maps APIs.  
+  https://github.com/AdrianaAC/ShareMyPlaceApp  
+
+---
+
+### 🧪 Technical Assessments
+Solutions built for real-world hiring challenges.
+
+- **AI Energy Report Analyzer**  
+  AI-assisted interface for analyzing energy reports and generating executive summaries.  
+  https://github.com/AdrianaAC/G2C_Challenge  
+
+- **Nearshore Frontend Assessment**  
+  https://github.com/AdrianaAC/nearshore-assesment  
+
+- **InGenius Tech Assessment**  
+  https://github.com/AdrianaAC/InGenius-TechAssessment  
+
+---
+
+### 📚 Learning & Practice Projects
+Repositories created while learning frontend technologies and experimenting with concepts.
+
+- **InterviewSimulator**  
+- **BattleOfTheRiver**  
+- **FavMovieDatabase**  
+- **ProjectPlanner**  
+- **speedTypeTester_JS**  
+- **analogicClock_CSS**  
+
 ## 🚀 Tech Stack
 
 ### Frontend
