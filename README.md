@@ -12,12 +12,6 @@ I enjoy creating modern user interfaces, improving frontend architecture, and ex
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AdrianaAC&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AdrianaAC&layout=compact&theme=tokyonight&hide_border=true)
-
 ## 🔥 Contribution Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AdrianaAC&theme=tokyonight&hide_border=true)
