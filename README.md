@@ -92,15 +92,13 @@ A sandbox for experimenting with UI architecture, reusable components, and desig
 Technical challenge focused on building an **AI-assisted interface** to analyze energy consumption reports and generate executive insights.
 
 **Features**
-
 - AI-generated executive summaries  
 - Energy anomaly detection  
 - Automated email draft generation  
 - Interactive energy analysis UI
-- 
+  
 
 **Tech Stack**
-
 Next.js • React • TypeScript • OpenAI API • Vercel
 
 
