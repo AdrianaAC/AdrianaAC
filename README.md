@@ -83,11 +83,40 @@ A sandbox for experimenting with UI architecture, reusable components, and desig
 
 ## 🧪 Technical Assessments
 
+<table>
+<tr>
+<td width="50%">
+
 ### AI Energy Report Analyzer
 
-Technical challenge focused on building an AI-assisted interface to analyze energy consumption reports and generate executive insights.
+Technical challenge focused on building an **AI-assisted interface** to analyze energy consumption reports and generate executive insights.
 
-![Energy Analyzer Screenshot](./images/g2cAssessment.png)
+**Features**
+
+- AI-generated executive summaries  
+- Energy anomaly detection  
+- Automated email draft generation  
+- Interactive energy analysis UI  
+
+**Tech Stack**
+
+Next.js • React • TypeScript • OpenAI API • Vercel
+
+🔗 **Live Demo**  
+https://g2-c-challenge.vercel.app/
+
+🔗 **Repository**  
+https://github.com/AdrianaAC/G2C_Challenge
+
+</td>
+
+<td width="50%">
+
+<img src="./images/g2cAssessment.png" width="100%">
+
+</td>
+</tr>
+</table>
 
 **Features**
 
