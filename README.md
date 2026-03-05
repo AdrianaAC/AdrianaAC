@@ -96,11 +96,13 @@ Technical challenge focused on building an **AI-assisted interface** to analyze 
 - AI-generated executive summaries  
 - Energy anomaly detection  
 - Automated email draft generation  
-- Interactive energy analysis UI  
+- Interactive energy analysis UI
+- 
 
 **Tech Stack**
 
 Next.js • React • TypeScript • OpenAI API • Vercel
+
 
 🔗 **Live Demo**  
 https://g2-c-challenge.vercel.app/
