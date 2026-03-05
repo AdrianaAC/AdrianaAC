@@ -118,22 +118,6 @@ https://github.com/AdrianaAC/G2C_Challenge
 </tr>
 </table>
 
-**Features**
-
-- AI-generated executive summaries
-- Energy anomaly detection
-- Automated email draft generation
-- Interactive UI for energy report analysis
-
-**Tech Stack**
-
-Next.js • React • TypeScript • OpenAI API • Vercel
-
-**Links**
-
-Live: https://g2-c-challenge.vercel.app/  
-Repo: https://github.com/AdrianaAC/G2C_Challenge
-
 ---
 
 
