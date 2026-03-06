@@ -1,6 +1,6 @@
 # Hi, I'm Adriana 👋
 
-Frontend Engineer specializing in modern web applications.
+Frontend Engineer specializing in **modern web applications and scalable UI systems**.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
@@ -8,121 +8,17 @@ Frontend Engineer specializing in modern web applications.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![AI](https://img.shields.io/badge/AI--Assisted%20Development-8A2BE2?style=for-the-badge)
 
-I enjoy creating modern user interfaces, improving frontend architecture, and exploring **AI-assisted development workflows and AI-powered interfaces**.
+I enjoy creating **modern user interfaces, scalable frontend architecture, and exploring AI-assisted development workflows**.
 
 ---
 
-## 🔥 Contribution Activity
+# 🔥 Contribution Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AdrianaAC&theme=tokyonight&hide_border=true)
 
-## 🗂 Repository Categories
-
-### 🚀 Featured Projects
-Projects built to explore frontend architecture, UI systems, and modern web development.
-
-- **Burger Builder (React)**  
-  https://github.com/AdrianaAC/burgerBuilder_React  
- 
-
-- **ShareMyPlaceApp**  
-  JavaScript application integrating Google Maps APIs.  
-  https://github.com/AdrianaAC/ShareMyPlaceApp  
-
 ---
 
-### 🧪 Technical Assessments
-Solutions built for real-world hiring challenges.
-
-- **AI Energy Report Analyzer - Tech2C**  
-  AI-assisted interface for analyzing energy reports and generating executive summaries.  
-  https://github.com/AdrianaAC/AI-Energy-Analyzer
-
-- **Nearshore Frontend Assessment**  
-  https://github.com/AdrianaAC/nearshore-assesment  
-
-- **InGenius Tech Assessment**  
-  https://github.com/AdrianaAC/InGenius-TechAssessment  
-
----
-
-### 📚 Learning & Practice Projects
-Repositories created while learning frontend technologies and experimenting with concepts.
-
-- **InterviewSimulator**  
-- **BattleOfTheRiver**  
-- **FavMovieDatabase**  
-- **ProjectPlanner**  
-- **speedTypeTester_JS**  
-- **analogicClock_CSS**  
-
-## 🚀 Tech Stack
-
-### Frontend
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-- JavaScript (ES6+)
-
-### UI & Styling
-- ![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?logo=mui&logoColor=white)
-- ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
-- CSS Modules
-- SASS
-- Responsive Design
-- Accessibility (WCAG)
-
-### Data & APIs
-- REST APIs
-- Axios
-- ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?logo=reactquery&logoColor=white)
-- API Integration
-
-### Testing & Performance
-- Jest
-- Unit Testing
-- Lazy Loading
-- Performance Optimization
-- Component Architecture
-
-### Tooling & DevOps
-- Git
-- Azure DevOps
-- Storybook
-- Webpack
-- Vercel
-- Figma
-- Jira
-- Agile / Scrum
-
-### AI-Assisted Development
-- ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
-- ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-purple)
-- ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?logo=githubcopilot)
-- ![Cursor](https://img.shields.io/badge/-Cursor%20IDE-333333)
-- Codex
-
----
-
-## 🚀 Featured Projects
-
-Projects I built to explore frontend architecture, UI systems, and AI-powered interfaces.
-
-(Projects will be added here soon)
-
-Upcoming projects include:
-
-### TV Show Tracker
-React + external APIs to manage watched shows, upcoming episodes, and recommendations.
-
-### Component Playground
-A sandbox for experimenting with UI architecture, reusable components, and design systems.
-
-### SpellsList
-A web app to explore and manage spells from fantasy systems.
----
-
-## 🧪 Technical Assessments
+# 🧪 Technical Assessments
 
 <table>
 <tr>
@@ -133,15 +29,15 @@ A web app to explore and manage spells from fantasy systems.
 Technical challenge focused on building an **AI-assisted interface** to analyze energy consumption reports and generate executive insights.
 
 **Features**
+
 - AI-generated executive summaries  
 - Energy anomaly detection  
 - Automated email draft generation  
-- Interactive energy analysis UI
-  
+- Interactive energy analysis UI  
 
 **Tech Stack**
-Next.js • React • TypeScript • OpenAI API • Vercel
 
+Next.js • React • TypeScript • OpenAI API • Vercel
 
 🔗 **Live Demo**  
 https://g2-c-challenge.vercel.app/
@@ -154,9 +50,9 @@ https://github.com/AdrianaAC/AI-Energy-Analyzer
 <td width="50%">
 <b>Application Interface</b>
 <img src="./images/g2cAssessment.png" width="100%">
-
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
@@ -164,68 +60,143 @@ https://github.com/AdrianaAC/AI-Energy-Analyzer
 
 Technical challenge focused on building a **vehicle search and filtering interface**.
 
-Users can search vehicles by name and filter by **make, year and transmission type**.
+Users can search vehicles by model and filter by **make, year and transmission type**.
 
-#### Features
+**Features**
 
-- Search vehicles by model name
+- Search vehicles by model
 - Filter by **make**
 - Filter by **year**
-- Filter by **transmission type**
+- Filter by **transmission**
 - Dynamic table rendering
 - Reset filters functionality
 
 **Tech Stack**
 
-React • JavaScript • UI Filtering Logic • Vercel
+React • TypeScript • UI Filtering Logic • Vercel
 
 🔗 **Live Demo**  
 https://frontend-assessment-nearshore.vercel.app/
 
 📂 **Repository**  
 https://github.com/AdrianaAC/frontend-assessment-nearshore
+
 </td>
 
 <td width="50%">
 <b>Application Interface</b>
 <img src="./images/primeITAssessment.png" width="100%">
-
 </td>
 </tr>
+
 </table>
 
 ---
 
+# 🚀 Selected Projects
 
-## 💼 Professional Experience
+Some projects built while exploring **frontend architecture, UI systems and interaction patterns**.
 
-I have worked on **enterprise digital platforms across healthcare, retail, and industrial sectors**, contributing to scalable frontend systems used by thousands of users.
+- **React Burger Builder**  
+  React application demonstrating component architecture, state management and UI interactions  
+  https://github.com/AdrianaAC/react-burger-builder
+
+- **Project Planner**  
+  Vanilla JavaScript project board with drag & drop functionality  
+  https://github.com/AdrianaAC/ProjectPlanner
+
+- **Frontend Assessment – Wavecom**  
+  React + TypeScript challenge implementing UI components and API integration  
+  https://github.com/AdrianaAC/frontend-assessment-wavecom
+
+- **Frontend Assessment – InGenius**  
+  Course catalog UI built with React Router and search functionality  
+  https://github.com/AdrianaAC/frontend-assessment-ingenius
+
+---
+
+# 🚀 Tech Stack
+
+### Frontend
+
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+- JavaScript (ES6+)
+
+### UI & Styling
+
+- ![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?logo=mui&logoColor=white)
+- ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+- CSS Modules
+- SASS
+- Responsive Design
+- Accessibility (WCAG)
+
+### Data & APIs
+
+- REST APIs
+- Axios
+- ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?logo=reactquery&logoColor=white)
+- API Integration
+
+### Testing & Performance
+
+- Jest
+- Unit Testing
+- Lazy Loading
+- Performance Optimization
+- Component Architecture
+
+### Tooling & DevOps
+
+- Git
+- Azure DevOps
+- Storybook
+- Webpack
+- Vercel
+- Figma
+- Jira
+- Agile / Scrum
+
+### AI-Assisted Development
+
+- ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
+- ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-purple)
+- ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?logo=githubcopilot)
+- ![Cursor](https://img.shields.io/badge/-Cursor%20IDE-333333)
+
+---
+
+# 💼 Professional Experience
+
+I have worked on **enterprise digital platforms across healthcare, retail and industrial sectors**, contributing to scalable frontend systems used by thousands of users.
 
 My work includes:
 
 - Developing **React and Next.js applications**
-- Building reusable UI component systems
+- Building reusable **UI component systems**
 - Integrating complex **REST APIs**
-- Improving frontend architecture and maintainability
+- Improving **frontend architecture and maintainability**
 - Implementing **accessible and responsive interfaces**
-- Exploring **AI-powered UI features and AI-assisted development workflows**
+- Exploring **AI-powered UI features**
 
 ---
 
-## 🧠 Currently Learning
+# 🧠 Currently Learning
 
-- AI-powered frontend experiences
+- AI-powered frontend interfaces
 - Advanced Next.js architecture
 - AI-assisted developer workflows
 
 ---
 
-## 🌍 Connect with Me
+# 🌍 Connect with Me
 
-LinkedIn  
+**LinkedIn**  
 https://linkedin.com/in/adrianaalves098
 
-GitHub  
+**GitHub**  
 https://github.com/AdrianaAC
 
 ---
