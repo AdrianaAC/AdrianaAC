@@ -188,7 +188,7 @@ https://github.com/AdrianaAC/frontend-assessment-nearshore
 
 <td width="50%">
 <b>Application Interface</b>
-<img src="./images/g2cAssessment.png" width="100%">
+<img src="./images/primeITAssessment.png" width="100%">
 
 </td>
 </tr>
