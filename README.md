@@ -157,6 +157,41 @@ https://github.com/AdrianaAC/AI-Energy-Analyzer
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### Vehicle Finder (Nearshore Assessment)
+
+Technical challenge focused on building a **vehicle search and filtering interface**.
+
+Users can search vehicles by name and filter by **make, year and transmission type**.
+
+#### Features
+
+- Search vehicles by model name
+- Filter by **make**
+- Filter by **year**
+- Filter by **transmission type**
+- Dynamic table rendering
+- Reset filters functionality
+
+**Tech Stack**
+
+React • JavaScript • UI Filtering Logic • Vercel
+
+🔗 **Live Demo**  
+https://frontend-assessment-nearshore.vercel.app/
+
+📂 **Repository**  
+https://github.com/AdrianaAC/frontend-assessment-nearshore
+</td>
+
+<td width="50%">
+<b>Application Interface</b>
+<img src="./images/g2cAssessment.png" width="100%">
+
+</td>
+</tr>
 </table>
 
 ---
