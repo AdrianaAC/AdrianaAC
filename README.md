@@ -160,7 +160,7 @@ https://github.com/AdrianaAC/AI-Energy-Analyzer
 <tr>
 <td width="50%">
 
-### Vehicle Finder (Nearshore Assessment)
+### Vehicle Finder
 
 Technical challenge focused on building a **vehicle search and filtering interface**.
 
