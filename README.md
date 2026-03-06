@@ -105,14 +105,6 @@ Some projects built while exploring **frontend architecture, UI systems and inte
   Vanilla JavaScript project board with drag & drop functionality  
   https://github.com/AdrianaAC/ProjectPlanner
 
-- **Frontend Assessment – Wavecom**  
-  React + TypeScript challenge implementing UI components and API integration  
-  https://github.com/AdrianaAC/frontend-assessment-wavecom
-
-- **Frontend Assessment – InGenius**  
-  Course catalog UI built with React Router and search functionality  
-  https://github.com/AdrianaAC/frontend-assessment-ingenius
-
 ---
 
 # 🚀 Tech Stack
