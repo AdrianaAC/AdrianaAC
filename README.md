@@ -23,10 +23,7 @@ Projects built to explore frontend architecture, UI systems, and modern web deve
 
 - **Burger Builder (React)**  
   https://github.com/AdrianaAC/burgerBuilder_React  
-
-- **SpellsList**  
-  React interface with API integration for listing and exploring spells.  
-  https://github.com/AdrianaAC/SpellsList  
+ 
 
 - **ShareMyPlaceApp**  
   JavaScript application integrating Google Maps APIs.  
@@ -121,7 +118,8 @@ React + external APIs to manage watched shows, upcoming episodes, and recommenda
 ### Component Playground
 A sandbox for experimenting with UI architecture, reusable components, and design systems.
 
-
+### SpellsList
+A web app to explore and manage spells from fantasy systems.
 ---
 
 ## 🧪 Technical Assessments
