@@ -95,15 +95,43 @@ https://github.com/AdrianaAC/frontend-assessment-nearshore
 
 # 🚀 Selected Projects
 
-Some projects built while exploring **frontend architecture, UI systems and interaction patterns**.
+<table>
 
-- **React Burger Builder**  
-  React application demonstrating component architecture, state management and UI interactions  
-  https://github.com/AdrianaAC/react-burger-builder
+<tr>
+<td width="50%">
 
-- **Project Planner**  
-  Vanilla JavaScript project board with drag & drop functionality  
-  https://github.com/AdrianaAC/ProjectPlanner
+### React Burger Builder
+
+Interactive React application where users can **build a custom burger by adding or removing ingredients dynamically**.
+
+The UI updates in real time and calculates the total price based on the selected ingredients.
+
+**Features**
+
+- Add and remove burger ingredients  
+- Real-time UI updates  
+- Dynamic ingredient price calculation  
+- Global state management with Redux  
+- Modular React component architecture  
+
+**Tech Stack**
+
+React • Redux • React Router • Vite • JavaScript • CSS
+
+🔗 **Live Demo**  
+https://react-burger-builder-mu.vercel.app/
+
+📂 **Repository**  
+https://github.com/AdrianaAC/react-burger-builder
+
+</td>
+
+<td width="50%">
+<b>Application Interface</b>
+<img src="./images/BBuilder.png" width="100%">
+</td>
+</tr>
+</table>
 
 ---
 
