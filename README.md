@@ -131,6 +131,41 @@ https://github.com/AdrianaAC/react-burger-builder
 <img src="./images/BBuilder.png" width="100%">
 </td>
 </tr>
+
+<tr>
+<td width="50%">
+
+### Ionic Biorhythm Calculator
+
+Interactive Ionic + Angular application that calculates a user's **physical, emotional, and intellectual biorhythm cycles** based on their birth date.
+
+The application dynamically computes the cycles and displays them visually, providing an intuitive way to explore biorhythm theory.
+
+**Features**
+
+- Calculate biorhythm cycles based on birth date  
+- Visual representation of physical, emotional, and intellectual cycles  
+- Dynamic cycle calculation  
+- Responsive mobile-friendly UI  
+- Simple and intuitive user experience  
+
+**Tech Stack**
+
+Ionic • Angular • TypeScript • HTML • CSS • Vercel
+
+🔗 **Live Demo**  
+https://ionic-biorhythm-calculator.vercel.app/
+
+📂 **Repository**  
+https://github.com/AdrianaAC/ionic-biorhythm-calculator
+
+</td>
+
+<td width="50%">
+<b>Application Interface</b>
+<img src="./images/bioCalc.png" width="100%">
+</td>
+</tr>
 </table>
 
 ---
