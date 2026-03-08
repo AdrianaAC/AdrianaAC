@@ -91,7 +91,7 @@ https://github.com/AdrianaAC/frontend-assessment-nearshore
 <tr>
 <td width="50%">
 
-### Wavecom Map IoT Interface
+### Map IoT Interface
 
 Technical challenge focused on building a **map-based interface to visualize and interact with IoT devices**.
 
