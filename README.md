@@ -42,7 +42,7 @@ Next.js • React • TypeScript • OpenAI API • Vercel
 🔗 **Live Demo**  
 https://g2-c-challenge.vercel.app/
 
-🔗 **Repository**  
+📂 **Repository**  
 https://github.com/AdrianaAC/AI-Energy-Analyzer
 
 </td>
@@ -112,7 +112,7 @@ React • TypeScript • MapLibre • Vite • CSS • Vercel
 🔗 **Live Demo**  
 https://frontend-assessment-wavecom.vercel.app/
 
-🔗 **Repository**  
+📂 **Repository**  
 https://github.com/AdrianaAC/frontend-assessment-wavecom
 
 </td>
