@@ -88,6 +88,40 @@ https://github.com/AdrianaAC/frontend-assessment-nearshore
 <img src="./images/primeITAssessment.png" width="100%">
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### Wavecom Map IoT Interface
+
+Technical challenge focused on building a **map-based interface to visualize and interact with IoT devices**.
+
+The application displays device locations on a map and allows users to explore device information through an interactive UI.
+
+**Features**
+
+- Interactive map visualization
+- Display IoT device locations
+- Device information panel
+- Dynamic UI updates
+- Responsive interface
+
+**Tech Stack**
+
+React • TypeScript • MapLibre • Vite • CSS • Vercel
+
+🔗 **Live Demo**  
+https://frontend-assessment-wavecom.vercel.app/
+
+🔗 **Repository**  
+https://github.com/AdrianaAC/frontend-assessment-wavecom
+
+</td>
+
+<td width="50%">
+<b>Application Demo</b>
+<img src="./images/screen.gif" width="100%">
+</td>
+</tr>
 
 </table>
 
