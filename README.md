@@ -130,6 +130,38 @@ https://github.com/AdrianaAC/frontend-assessment-wavecom
 # 🚀 Selected Projects
 
 <table>
+<tr>
+<td width="50%">
+
+### Ticket Forge
+
+AI-powered developer tool that **extracts structured tickets from screenshots** and converts them into clean, validated ticket objects ready for development workflows.
+
+The system uses **Vision AI + schema validation + normalization** to transform messy ticket screenshots into structured data developers can immediately work with.
+
+**Features**
+
+- AI-powered ticket extraction from screenshots  
+- Vision model analysis of Jira/GitHub tickets  
+- Schema validation with Zod  
+- Ticket normalization and field standardization  
+- Missing field detection  
+- Human-in-the-loop review interface  
+
+**Tech Stack**
+
+Next.js • React • TypeScript • OpenAI Vision • Zod • TailwindCSS
+
+📂 **Repository**  
+https://github.com/AdrianaAC/ticket-forge
+
+</td>
+
+<td width="50%">
+<b>Application Interface</b>
+<img src="./images/ticketForge.png" width="100%">
+</td>
+</tr>
 
 <tr>
 <td width="50%">
