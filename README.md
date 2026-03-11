@@ -158,8 +158,8 @@ https://github.com/AdrianaAC/ticket-forge
 </td>
 
 <td width="50%">
-<b>Application Interface</b>
-<img src="./images/ticketForge.png" width="100%">
+<b>Application Demo</b>
+<img src="./images/ticket-forge.gif" width="100%">
 </td>
 </tr>
 
