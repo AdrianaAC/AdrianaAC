@@ -121,27 +121,24 @@ PLACEHOLDER FOR GIF
 # 🚀 Selected Projects
 
 <table>
+
 <tr>
 <td width="50%">
 
 ### Ticket Forge
 
-AI-powered developer tool that **extracts structured tickets from screenshots** and converts them into clean, validated ticket objects ready for development workflows.
-
-The system uses **Vision AI + schema validation + normalization** to transform messy ticket screenshots into structured data developers can immediately work with.
+Tool that **extracts structured tickets from screenshots** and converts them into clean, editable formats.
 
 **Features**
 
-- AI-powered ticket extraction from screenshots  
-- Vision model analysis of Jira/GitHub tickets  
-- Schema validation with Zod  
-- Ticket normalization and field standardization  
-- Missing field detection  
-- Human-in-the-loop review interface  
+- Screenshot → structured ticket  
+- Field extraction (title, description, metadata)  
+- Editable review step  
+- Clean and readable output  
 
 **Tech Stack**
 
-Next.js • React • TypeScript • OpenAI Vision • Zod • TailwindCSS
+Next.js • React • TypeScript • OpenAI • Zod • TailwindCSS
 
 📂 **Repository**  
 https://github.com/AdrianaAC/ticket-forge
@@ -157,72 +154,88 @@ https://github.com/AdrianaAC/ticket-forge
 <tr>
 <td width="50%">
 
-### React Burger Builder
+### Console Doctor
 
-Interactive React application where users can **build a custom burger by adding or removing ingredients dynamically**.
-
-The UI updates in real time and calculates the total price based on the selected ingredients.
+Tool to help developers **understand and debug console errors faster**.
 
 **Features**
 
-- Add and remove burger ingredients  
-- Real-time UI updates  
-- Dynamic ingredient price calculation  
-- Global state management with Redux  
-- Modular React component architecture  
+- Input console errors  
+- Simplified explanations  
+- Suggested fixes  
+- Focus on developer workflow  
 
 **Tech Stack**
 
-React • Redux • React Router • Vite • JavaScript • CSS
-
-🔗 **Live Demo**  
-https://react-burger-builder-mu.vercel.app/
+Next.js • React • TypeScript
 
 📂 **Repository**  
-https://github.com/AdrianaAC/react-burger-builder
+https://github.com/AdrianaAC/console-doctor
 
 </td>
 
 <td width="50%">
-<b>Application Interface</b>
-<img src="./images/BBuilder.png" width="100%">
+<b>Application Demo</b>
+PLACEHOLDER FOR GIF
 </td>
 </tr>
 
 <tr>
 <td width="50%">
 
-### Ionic Biorhythm Calculator
+### Personal Recruiter
 
-Interactive Ionic + Angular application that calculates a user's **physical, emotional, and intellectual biorhythm cycles** based on their birth date.
-
-The application dynamically computes the cycles and displays them visually, providing an intuitive way to explore biorhythm theory.
+Personal tool to **organize job search, recruiter interactions, and opportunities**.
 
 **Features**
 
-- Calculate biorhythm cycles based on birth date  
-- Visual representation of physical, emotional, and intellectual cycles  
-- Dynamic cycle calculation  
-- Responsive mobile-friendly UI  
-- Simple and intuitive user experience  
+- Track applications and conversations  
+- Manage recruiting pipeline  
+- Dashboard for visibility  
 
 **Tech Stack**
 
-Ionic • Angular • TypeScript • HTML • CSS • Vercel
-
-🔗 **Live Demo**  
-https://ionic-biorhythm-calculator.vercel.app/
+Next.js • React • TypeScript
 
 📂 **Repository**  
-https://github.com/AdrianaAC/ionic-biorhythm-calculator
+https://github.com/AdrianaAC/personal-recruiter
 
 </td>
 
 <td width="50%">
 <b>Application Interface</b>
-<img src="./images/bioCalc.png" width="100%">
+PLACEHOLDER FOR GIF
 </td>
 </tr>
+
+<tr>
+<td width="50%">
+
+### Binge Buddy
+
+Frontend application to **browse and manage shows/movies with a clean UI experience**.
+
+**Features**
+
+- Browse and explore content  
+- UI-focused experience  
+- Component-driven structure  
+
+**Tech Stack**
+
+React • TypeScript
+
+📂 **Repository**  
+https://github.com/AdrianaAC/binge-buddy
+
+</td>
+
+<td width="50%">
+<b>Application Interface</b>
+PLACEHOLDER FOR GIF
+</td>
+</tr>
+
 </table>
 
 ---
