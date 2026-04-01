@@ -104,14 +104,17 @@ Frontend challenge focused on **internal tool workflows and structured UI for AI
 
 Next.js • React • TypeScript • TailwindCSS • Zod
 
+🔗 **Live Demo** 
+https://frontend-assessment-internal-automa.vercel.app/
+
 📂 **Repository**  
 https://github.com/AdrianaAC/frontend-assessment-internal-automation
 
 </td>
 
 <td width="50%">
-<b>Application Interface</b>
-PLACEHOLDER FOR GIF
+<b>Application Demo</b>
+<img src="./images/internalAutomation.gif" width="100%">
 </td>
 </tr>
 
