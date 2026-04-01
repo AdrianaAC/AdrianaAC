@@ -43,7 +43,7 @@ Next.js • React • TypeScript • OpenAI API • Vercel
 https://g2-c-challenge.vercel.app/
 
 📂 **Repository**  
-https://github.com/AdrianaAC/AI-Energy-Analyzer
+https://github.com/AdrianaAC/G2C_Challenge
 
 </td>
 
@@ -56,75 +56,66 @@ https://github.com/AdrianaAC/AI-Energy-Analyzer
 <tr>
 <td width="50%">
 
-### Vehicle Finder
+### LTP Labs Frontend Assessment
 
-Technical challenge focused on building a **vehicle search and filtering interface**.
-
-Users can search vehicles by model and filter by **make, year and transmission type**.
+Frontend challenge focused on building a **modern e-commerce interface** based on a Figma design.
 
 **Features**
 
-- Search vehicles by model
-- Filter by **make**
-- Filter by **year**
-- Filter by **transmission**
-- Dynamic table rendering
-- Reset filters functionality
+- Product listing and filtering  
+- Product detail pages  
+- Responsive layout  
+- Component-based structure  
+- Focus on UI/UX consistency  
 
 **Tech Stack**
 
-React • TypeScript • UI Filtering Logic • Vercel
+React • TypeScript • CSS
 
 🔗 **Live Demo**  
-https://frontend-assessment-nearshore.vercel.app/
+https://adrianaac.github.io/frontend-assessment-LTPLabs/
 
 📂 **Repository**  
-https://github.com/AdrianaAC/frontend-assessment-nearshore
+https://github.com/AdrianaAC/frontend-assessment-LTPLabs
 
 </td>
 
 <td width="50%">
 <b>Application Interface</b>
-<img src="./images/primeITAssessment.png" width="100%">
+PLACEHOLDER FOR GIF
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-### Map IoT Interface
+### Internal Automation Workflow
 
-Technical challenge focused on building a **map-based interface to visualize and interact with IoT devices**.
-
-The application displays device locations on a map and allows users to explore device information through an interactive UI.
+Frontend challenge focused on **internal tool workflows and structured UI for AI-assisted processes**.
 
 **Features**
 
-- Interactive map visualization
-- Display IoT device locations
-- Device information panel
-- Dynamic UI updates
-- Responsive interface
+- Workflow orchestration UI  
+- Approval step before final actions  
+- Structured state and result handling  
+- Clear separation between AI output and user decisions  
 
 **Tech Stack**
 
-React • TypeScript • MapLibre • Vite • CSS • Vercel
-
-🔗 **Live Demo**  
-https://frontend-assessment-wavecom.vercel.app/
+Next.js • React • TypeScript • TailwindCSS • Zod
 
 📂 **Repository**  
-https://github.com/AdrianaAC/frontend-assessment-wavecom
+https://github.com/AdrianaAC/frontend-assessment-internal-automation
 
 </td>
 
 <td width="50%">
-<b>Application Demo</b>
-<img src="./images/screen.gif" width="100%">
+<b>Application Interface</b>
+PLACEHOLDER FOR GIF
 </td>
 </tr>
 
 </table>
-
 ---
 
 # 🚀 Selected Projects
