@@ -56,7 +56,7 @@ https://github.com/AdrianaAC/G2C_Challenge
 <tr>
 <td width="50%">
 
-### LTP Labs Frontend Assessment
+### E-Commerce Interface
 
 Frontend challenge focused on building a **modern e-commerce interface** based on a Figma design.
 
@@ -82,7 +82,7 @@ https://github.com/AdrianaAC/frontend-assessment-LTPLabs
 
 <td width="50%">
 <b>Application Interface</b>
-PLACEHOLDER FOR GIF
+<img src="./images/demo.gif" width="100%">
 </td>
 </tr>
 
