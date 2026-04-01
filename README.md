@@ -81,7 +81,7 @@ https://github.com/AdrianaAC/frontend-assessment-LTPLabs
 </td>
 
 <td width="50%">
-<b>Application Interface</b>
+<b>Application Demo</b>
 <img src="./images/demo.gif" width="100%">
 </td>
 </tr>
