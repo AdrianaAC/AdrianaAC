@@ -148,7 +148,7 @@ https://github.com/AdrianaAC/frontend-assessment-neotalent
 
 <td width="50%">
 <b>Application Demo</b>
-<img src="./images/neotalent.gif" width="100%">
+<img src="./images/demoGIF.gif" width="100%">
 </td>
 </tr>
 
