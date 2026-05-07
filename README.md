@@ -118,6 +118,40 @@ https://github.com/AdrianaAC/frontend-assessment-internal-automation
 </td>
 </tr>
 
+<tr>
+<td width="50%">
+
+### Vehicle Auction Marketplace
+
+Frontend assessment focused on **vehicle marketplace browsing, structured state management, and polished user experience**.
+
+**Features**
+
+- Vehicle listing, filtering and sorting  
+- Pagination with URL-persisted state  
+- Favourite vehicles with localStorage persistence  
+- Vehicle details page with stable routes  
+- Timezone-safe auction countdown logic  
+- Automated tests and CI validation  
+
+**Tech Stack**
+
+React • TypeScript • Vite • React Router • styled-components • Vitest • React Testing Library
+
+🔗 **Live Demo**  
+https://frontend-assessment-neotalent.vercel.app/
+
+📂 **Repository**  
+https://github.com/AdrianaAC/frontend-assessment-neotalent
+
+</td>
+
+<td width="50%">
+<b>Application Demo</b>
+<img src="./images/neotalent.gif" width="100%">
+</td>
+</tr>
+
 </table>
 ---
 
